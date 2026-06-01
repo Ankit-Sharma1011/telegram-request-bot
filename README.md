@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Telegram Request Forwarder Bot
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
@@ -115,3 +116,6 @@ direct-forward-bot/
 
 📜 License
 MIT License – free and open-source.
+=======
+# telegram-request-bot
+>>>>>>> 38f9d208dcab922ac98bbf6b103cc4ce566d6493
